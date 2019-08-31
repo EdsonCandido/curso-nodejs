@@ -1,3 +1,5 @@
 *.log
 
 /myapp/node_modules
+/app/node_modules
+comando.txt
